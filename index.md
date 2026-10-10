@@ -11,34 +11,6 @@ hi, my name is
 ## PhD student, Texts and Technology, University of Central Florida
 <img src="{{ site.baseurl }}/assets/featured-image.jpg" alt="Toyosi Ogunsola" width="220" style="float: right; margin: 0 0 1em 1.5em;">
 
-.intro-kicker {
-  font-family: Monaco, "Courier New", monospace;
-  font-size: 15px;
-  color: #8f6fb8;
-  margin-bottom: 8px;
-  letter-spacing: 0.5px;
-}
-
-#main-content h2.typed-line {
-  font-family: 'Playfair Display', Georgia, serif;
-  font-size: 2.2em;
-  color: #8f7aa8;
-  min-height: 1.3em;
-  margin-top: 0;
-}
-
-#typed { color: #8f7aa8; }
-
-.cursor {
-  color: #8f6fb8;
-  font-weight: 400;
-  animation: blink 1s step-end infinite;
-}
-
-@keyframes blink {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0; }
-}
  
 I am an emerging media researcher and UX practitioner studying how emerging media systems including AI and social media shape the way young people form identity, make decisions, and manage privacy. My work sits at the intersection of human-AI interaction, digital media, and adolescent development, combining empirical study design with participatory, human-centered methods. I'm currently a PhD student in Texts & Technology at the University of Central Florida.
  
