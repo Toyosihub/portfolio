@@ -10,17 +10,17 @@ title: Toyosi Ogunsola - Academic Portfolio
 
 # Toyosi Ogunsola
 
-<h2 class="typed-line">I'm <span id="typed"></span><span class="cursor">|</span></h2>
+<h2 class="typed-line">I am <span id="typed"></span><span class="cursor">|</span></h2>
 
 <script>
   (function () {
     var el = document.getElementById("typed");
     if (!el) return;
     var phrases = [
-      "a PhD student",
-      "a UX researcher",
-      "a content strategist",
-      "studying human-computer interaction"
+      "am a PhD student",
+      "study Emerging Media",
+      "study social media & AI",
+      "study human-computer interaction"
     ];
     var p = 0, c = 0, deleting = false;
     function tick() {
@@ -35,6 +35,9 @@ title: Toyosi Ogunsola - Academic Portfolio
   })();
 </script>
 
+---
+
+
 ## PhD student, Texts and Technology, University of Central Florida
 <img src="{{ site.baseurl }}/assets/featured-image.jpg" alt="Toyosi Ogunsola" width="220" style="float: right; margin: 0 0 1em 1.5em;">
 
@@ -43,7 +46,9 @@ I am an emerging media researcher and UX practitioner studying how emerging medi
  
 - 🔗 [Portfolio](https://thetoyosiogunsola.xyz) · [ResearchGate](https://www.researchgate.net/profile/Oluwatoyosi-Ogunsola?ev=hdr_xprf) · 
 [Email](mailto:toyosi.ogunsola@ucf.edu)
+
 ---
+
 
 ### About Me
 
@@ -51,6 +56,9 @@ I study digital behavior through the lens of individual differences. My work
 asks how people preserve agency and self-authorship in digital environments increasingly shaped by algorithmic and AI-driven systems, with a focus on adolescents and young adults during their identity-formative years.
 
 Alongside my education, I work as a Teaching Assistant & Research Associate.
+
+---
+
 
 ### Research Interests
 - Youth, social media, and adolescent development
