@@ -1,8 +1,8 @@
-
 ---
 layout: default
 title: About
 ---
+
 
 # About
 
@@ -13,7 +13,7 @@ what happens to the developmental work of figuring that out yourself?
 I hold that question open rather than assuming the answer; whether these
 systems homogenize us is something to test, not to assert.
 
-## From practice to research
+## From Practice to Research
 
 I came to this work through practice. As Lead Content Strategist and UX
 Researcher at Alphega, I spend my days designing systems people actually
@@ -25,7 +25,7 @@ I completed a master's in Emerging Media Design and Development at Ball
 State University, and I'm now a PhD student in Texts & Technology at the
 University of Central Florida.
 
-## Current work
+## Current Work
 
 My research examines digital behavior through the lens of individual
 differences, need for uniqueness, need for cognition, optimal
@@ -46,7 +46,7 @@ varying stakes.
 bidirectional relationship between human personality and AI agents,
 particularly during adolescence.
 
-## What I'm working toward
+## What I'm Working Toward
 
 I focus on adolescents and young adults because the identity-formation
 window is when these systems have the most leverage. The design payoff
