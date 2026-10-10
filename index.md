@@ -4,6 +4,11 @@ title: Toyosi Ogunsola - Academic Portfolio
 ---
 
 
+
+
+hi, my name is
+# Toyosi Ogunsola
+## PhD student, Texts and Technology, University of Central Florida
 <img src="{{ site.baseurl }}/assets/featured-image.jpg" alt="Toyosi Ogunsola" width="220" style="float: right; margin: 0 0 1em 1.5em;">
 
 .intro-kicker {
@@ -34,10 +39,6 @@ title: Toyosi Ogunsola - Academic Portfolio
   0%, 100% { opacity: 1; }
   50% { opacity: 0; }
 }
-
-hi, my name is
-# Toyosi Ogunsola
-## PhD student, Texts and Technology, University of Central Florida
  
 I am an emerging media researcher and UX practitioner studying how emerging media systems including AI and social media shape the way young people form identity, make decisions, and manage privacy. My work sits at the intersection of human-AI interaction, digital media, and adolescent development, combining empirical study design with participatory, human-centered methods. I'm currently a PhD student in Texts & Technology at the University of Central Florida.
  
