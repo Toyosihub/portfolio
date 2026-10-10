@@ -6,7 +6,7 @@ title: Toyosi Ogunsola - Academic Portfolio
 
 
 
-  <p class="intro-kicker">Hi! my name is</p>
+   <p class="intro-kicker">Hi! my name is</p>
 
 # Toyosi Ogunsola
 
@@ -54,7 +54,6 @@ I'm currently a PhD student in Texts & Technology at the University of Central F
 
 [Read more about me →]({{ site.baseurl }}/about/)
  
-- 🔗 [Portfolio](https://thetoyosiogunsola.xyz) · 
 - 🔗 [ResearchGate](https://www.researchgate.net/profile/Oluwatoyosi-Ogunsola?ev=hdr_xprf) 
 - 🔗 [Email](mailto:toyosi.ogunsola@ucf.edu)
 
@@ -71,7 +70,7 @@ I'm currently a PhD student in Texts & Technology at the University of Central F
 - Autonomy and self-authorship in human-AI interaction
 - Youth identity formation and participatory design
 
-[See research →]({{ site.baseurl }}/projects/)
+[See My Research Projects →]({{ site.baseurl }}/projects/)
 
 ---
  
@@ -82,11 +81,8 @@ I'm currently a PhD student in Texts & Technology at the University of Central F
  
 **MA, Emerging Media Design & Development** — Ball State University, Muncie, IN
 *May 2025*
-Thesis: *Beyond Likes: How Personality Traits Predict Saving Behavior on Instagram*
  
 **BS, Consumer Sciences** (Foods, Nutrition & Dietetics) — Obafemi Awolowo University, Ile-Ife, Nigeria
-
-Thesis: *Consumption Pattern of Vitamin A, Iron, and Iodine-Rich Foods Amongst Adolescents in Lagos, Nigeria*
  
 ---
  
@@ -99,7 +95,7 @@ Thesis: *Consumption Pattern of Vitamin A, Iron, and Iodine-Rich Foods Amongst A
 5. Ogunsola, O. (2024, November). *Beyond Likes: How Personality Traits Predict Saving Behavior on Instagram* [Poster]. Indiana Chapter of UXPA, Fishers, IN.
 6. Ogunsola, O. (2024, May). *Evaluating ChatGPT's effectiveness in brainstorming user personas and pain points for design thinking* [Poster]. EMDD Symposium, Muncie, IN.
 
-Full academic and professional history. [View CV →]({{ site.baseurl }}/cv/)
+Want to see my full academic and professional history? [See My CV →]({{ site.baseurl }}/cv/)
 
 ---
  

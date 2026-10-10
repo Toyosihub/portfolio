@@ -13,17 +13,15 @@ what happens to the developmental work of figuring that out yourself?
 I hold that question open rather than assuming the answer; whether these
 systems homogenize us is something to test, not to assert.
 
-## From Practice to Research
-
-I came to this work through practice. As Lead Content Strategist and UX
-Researcher at Alphega, I spend my days designing systems people actually
-move through,  and watching where intent and experience come apart. That
-gap is what sent me toward research. Industry gave me the questions;
-it couldn't give me the methods or the time to answer them properly.
-
-I completed a master's in Emerging Media Design and Development at Ball
-State University, and I'm now a PhD student in Texts & Technology at the
-University of Central Florida.
+#### Research Interests
+- Youth, social media, and adolescent development
+- Digital ethics, privacy, and agency
+- Human-AI interaction and personalized AI agents
+- Critical platform studies
+- Participatory design and co-creation
+- Digital behavior and individual differences (need for uniqueness, need for cognition, optimal distinctiveness)
+- Autonomy and self-authorship in human-AI interaction
+- Youth identity formation and participatory design
 
 ## Current Work
 
@@ -53,6 +51,6 @@ window is when these systems have the most leverage. The design payoff
 matters to me: I want this work to inform what gets built, not only what
 gets published.
 
-## Elsewhere
+## Outside of School, Research & Work
 
-[I enjoy collecting whimsical websites. Two of my favorites are [radio garden](radio.garden) and [windowswap](https://www.window-swap.com/)]
+I enjoy collecting whimsical websites. Two of my favorites are [radio garden](radio.garden) and [windowswap](https://www.window-swap.com/)
