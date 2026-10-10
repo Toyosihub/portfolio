@@ -2,36 +2,7 @@
 layout: default
 title: CV
 ---
-<p class="intro-kicker">Hi, my name is</p>
 
-# Toyosi Ogunsola
-
-<h2 class="typed-line">I'm <span id="typed"></span><span class="cursor">|</span></h2>
-
-<script>
-  (function () {
-    var el = document.getElementById("typed");
-    if (!el) return;
-    var phrases = [
-       "a PhD student",
-        "an Emerging Media Researcher",
-        "a UX researcher",
-        "studying media use and human behavior",
-        "studying human-computer interaction",
-        "studying youth and AI"
-    ];
-    var p = 0, c = 0, deleting = false;
-    function tick() {
-      var word = phrases[p];
-      el.textContent = word.substring(0, deleting ? --c : ++c);
-      var wait = deleting ? 45 : 90;
-      if (!deleting && c === word.length) { wait = 1600; deleting = true; }
-      else if (deleting && c === 0) { deleting = false; p = (p + 1) % phrases.length; wait = 400; }
-      setTimeout(tick, wait);
-    }
-    tick();
-  })();
-</script>
 # Toyosi Ogunsola
 
 ## RESEARCH INTEREST
