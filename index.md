@@ -6,11 +6,11 @@ title: Toyosi Ogunsola - Academic Portfolio
 
 
 
-<p class="intro-kicker">Hi, my name is</p>
+  <p class="intro-kicker">Hi! my name is</p>
 
 # Toyosi Ogunsola
 
-<h2 class="typed-line">I am <span id="typed"></span><span class="cursor">|</span></h2>
+<h2 class="typed-line">I <span id="typed"></span><span class="cursor">|</span></h2>
 
 <script>
   (function () {
@@ -18,9 +18,10 @@ title: Toyosi Ogunsola - Academic Portfolio
     if (!el) return;
     var phrases = [
       "am a PhD student",
+      "am a UX Researcher",
       "study Emerging Media",
       "study social media & AI",
-      "study human-computer interaction"
+      "study agency, privacy & identity",
     ];
     var p = 0, c = 0, deleting = false;
     function tick() {
@@ -38,24 +39,25 @@ title: Toyosi Ogunsola - Academic Portfolio
 ---
 
 
-## PhD student, Texts and Technology, University of Central Florida
+
+
+
 <img src="{{ site.baseurl }}/assets/featured-image.jpg" alt="Toyosi Ogunsola" width="220" style="float: right; margin: 0 0 1em 1.5em;">
 
  
-I am an emerging media researcher and UX practitioner studying how emerging media systems including AI and social media shape the way young people form identity, make decisions, and manage privacy. My work sits at the intersection of human-AI interaction, digital media, and adolescent development, combining empirical study design with participatory, human-centered methods. I'm currently a PhD student in Texts & Technology at the University of Central Florida.
- 
-- 🔗 [Portfolio](https://thetoyosiogunsola.xyz) · [ResearchGate](https://www.researchgate.net/profile/Oluwatoyosi-Ogunsola?ev=hdr_xprf) · 
-[Email](mailto:toyosi.ogunsola@ucf.edu)
-
----
-
-
-### About Me
+I am an emerging media researcher and UX practitioner studying how emerging media systems including AI and social media shape the way young people form identity, make decisions, and manage privacy. My work sits at the intersection of human-AI interaction, digital media, and adolescent development, combining empirical study design with participatory, human-centered methods. 
 
 I study digital behavior through the lens of individual differences. My work
 asks how people preserve agency and self-authorship in digital environments increasingly shaped by algorithmic and AI-driven systems, with a focus on adolescents and young adults during their identity-formative years.
 
-Alongside my education, I work as a Teaching Assistant & Research Associate.
+
+I'm currently a PhD student in Texts & Technology at the University of Central Florida. Alongside my education, I work as a Teaching Assistant & Research Associate.
+
+[Read more about me →]({{ site.baseurl }}/about/)
+ 
+- 🔗 [Portfolio](https://thetoyosiogunsola.xyz) · 
+- 🔗 [ResearchGate](https://www.researchgate.net/profile/Oluwatoyosi-Ogunsola?ev=hdr_xprf) 
+- 🔗 [Email](mailto:toyosi.ogunsola@ucf.edu)
 
 ---
 
@@ -69,6 +71,8 @@ Alongside my education, I work as a Teaching Assistant & Research Associate.
 - Digital behavior and individual differences (need for uniqueness, need for cognition, optimal distinctiveness)
 - Autonomy and self-authorship in human-AI interaction
 - Youth identity formation and participatory design
+
+[See research →]({{ site.baseurl }}/projects/)
 
 ---
  
@@ -96,58 +100,10 @@ Thesis: *Consumption Pattern of Vitamin A, Iron, and Iodine-Rich Foods Amongst A
 5. Ogunsola, O. (2024, November). *Beyond Likes: How Personality Traits Predict Saving Behavior on Instagram* [Poster]. Indiana Chapter of UXPA, Fishers, IN.
 6. Ogunsola, O. (2024, May). *Evaluating ChatGPT's effectiveness in brainstorming user personas and pain points for design thinking* [Poster]. EMDD Symposium, Muncie, IN.
 
----
- 
- 
-## Professional Experience
- 
-**Research Associate & Teaching Assistant Grader**
-University of Central Florida
-Teaching assistant grader for the Digital Cultures & Humanities Course.
-Research Associate at the Center of Humanities & Digital Research.
-
-
-**Content Manager**  
-Hoel Roofing & Remodeling
-*May 2025 – May 2026* 
-
-I oversaw the creation, management and optimisation of the company's digital content. This includes managing blogs and web pages, and responsible for optimising SEO to maximise content visibility.
-
-**Lead Content Strategist & UX Researcher**  
-Alphega LLC
-*June 2025 – January 2026* 
-
-Lead mixed-methods UX research (surveys, heuristic evaluations, interviews, behavioral analysis) and translated findings into evidence-based design recommendations across client websites.
- 
-**Outreach Marketing Graduate Assistant**  
-Sponsored Projects Administration, Ball State University
-*July 2023 – May 2025*
-
-Built social and email marketing strategy that grew enrollment over 100% and audience reach by 30%.
- 
-**Lead Content Strategist** — Digiengage Advertising Agency, Lagos, Nigeria  
-*November 2021 – October 2023*
-
-Led content strategy across 11+ accounts, lifting engagement and conversion by over 50%.
- 
----
- 
-## Skills & Tools
- 
-**Research methods:** study design, surveys (Qualtrics, SurveyMonkey), contextual inquiry, thematic analysis, observational research, interviews, focus groups, diary studies
-
-**UX:** card sorting, participatory design, task analysis, affinity diagramming, journey mapping, personas, prototyping, A/B testing, usability testing
-
-**Analysis & software:** SPSS, Minitab, Dedoose
-
-**Design & web:** Figma, Adobe Creative Suite, Canva, WordPress, HTML/CSS, responsive design, WCAG 2.1 / Section 508
-
-**SEO:** SEMrush, Ahrefs, Google Analytics, Search Console, keyword research, metadata optimization
+Full academic and professional history. [View CV →]({{ site.baseurl }}/cv/)
 
 ---
-
-
-
+ 
 
 ### Contact
 [Email Me](toyosi.ogunsola@ucf.edu)
