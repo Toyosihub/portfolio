@@ -6,8 +6,35 @@ title: Toyosi Ogunsola - Academic Portfolio
 
 
 
-hi, my name is
+<p class="intro-kicker">Hi, my name is</p>
+
 # Toyosi Ogunsola
+
+<h2 class="typed-line">I'm <span id="typed"></span><span class="cursor">|</span></h2>
+
+<script>
+  (function () {
+    var el = document.getElementById("typed");
+    if (!el) return;
+    var phrases = [
+      "a PhD student",
+      "a UX researcher",
+      "a content strategist",
+      "studying human-computer interaction"
+    ];
+    var p = 0, c = 0, deleting = false;
+    function tick() {
+      var word = phrases[p];
+      el.textContent = word.substring(0, deleting ? --c : ++c);
+      var wait = deleting ? 45 : 90;
+      if (!deleting && c === word.length) { wait = 1600; deleting = true; }
+      else if (deleting && c === 0) { deleting = false; p = (p + 1) % phrases.length; wait = 400; }
+      setTimeout(tick, wait);
+    }
+    tick();
+  })();
+</script>
+
 ## PhD student, Texts and Technology, University of Central Florida
 <img src="{{ site.baseurl }}/assets/featured-image.jpg" alt="Toyosi Ogunsola" width="220" style="float: right; margin: 0 0 1em 1.5em;">
 
