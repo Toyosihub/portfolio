@@ -159,3 +159,22 @@ pre code { color: #5e3a84; }
     background-image: none;
   }
 }
+.typed-line {
+  min-height: 1.3em;
+}
+
+#typed {
+  font-family: 'Playfair Display', Georgia, serif;
+  color: #c9b6e3;
+}
+
+.cursor {
+  color: #c9b6e3;
+  font-weight: 400;
+  animation: blink 1s step-end infinite;
+}
+
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}

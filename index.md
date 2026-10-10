@@ -6,10 +6,11 @@ title: Toyosi Ogunsola - Academic Portfolio
 
 <img src="{{ site.baseurl }}/assets/featured-image.jpg" alt="Toyosi Ogunsola" width="220" style="float: right; margin: 0 0 1em 1.5em;">
 
+hi, my name is
 # Toyosi Ogunsola
 ## PhD student, Texts and Technology, University of Central Florida
  
-I'm a researcher and UX practitioner studying how AI systems shape the way young people form identity, make decisions, and manage privacy. My work sits at the intersection of human-AI interaction, digital media, and adolescent development, combining empirical study design with participatory, human-centered methods. I'm currently a PhD student in Texts & Technology at the University of Central Florida.
+I am an emerging media researcher and UX practitioner studying how emerging media systems including AI and social media shape the way young people form identity, make decisions, and manage privacy. My work sits at the intersection of human-AI interaction, digital media, and adolescent development, combining empirical study design with participatory, human-centered methods. I'm currently a PhD student in Texts & Technology at the University of Central Florida.
  
 - 🔗 [Portfolio](https://thetoyosiogunsola.xyz) · [ResearchGate](https://www.researchgate.net/profile/Oluwatoyosi-Ogunsola?ev=hdr_xprf) · 
 [Email](mailto:toyosi.ogunsola@ucf.edu)
@@ -18,11 +19,9 @@ I'm a researcher and UX practitioner studying how AI systems shape the way young
 ### About Me
 
 I study digital behavior through the lens of individual differences. My work
-asks how people preserve agency and self-authorship in environments increasingly
-shaped by algorithmic and AI-driven systems — with a focus on adolescents and
-young adults during their identity-formative years.
+asks how people preserve agency and self-authorship in digital environments increasingly shaped by algorithmic and AI-driven systems, with a focus on adolescents and young adults during their identity-formative years.
 
-Alongside my education, I work as a Teaching Assistant & Research Associate
+Alongside my education, I work as a Teaching Assistant & Research Associate.
 
 ### Research Interests
 - Youth, social media, and adolescent development
@@ -42,11 +41,11 @@ Alongside my education, I work as a Teaching Assistant & Research Associate
 *Aug. 2026 – Present*
  
 **MA, Emerging Media Design & Development** — Ball State University, Muncie, IN
-*May 2025 · GPA 3.96/4.00*
+*May 2025*
 Thesis: *Beyond Likes: How Personality Traits Predict Saving Behavior on Instagram*
  
-**BS, Consumer Sciences** (Minor: Foods, Nutrition & Dietetics) — Obafemi Awolowo University, Ile-Ife, Nigeria
-*May 2019 · GPA 3.42/4.00*
+**BS, Consumer Sciences** (Foods, Nutrition & Dietetics) — Obafemi Awolowo University, Ile-Ife, Nigeria
+
 Thesis: *Consumption Pattern of Vitamin A, Iron, and Iodine-Rich Foods Amongst Adolescents in Lagos, Nigeria*
  
 ---
