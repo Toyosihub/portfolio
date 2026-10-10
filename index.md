@@ -18,10 +18,9 @@ title: Toyosi Ogunsola - Academic Portfolio
     if (!el) return;
     var phrases = [
       "am a PhD student",
-      "am a UX Researcher",
-      "study Emerging Media",
-      "study social media & AI",
-      "study agency, privacy & identity",
+      "am an Emerging Media Researcher",
+      "study Social Media & AI",
+      "study Agency, Privacy & Identity",
     ];
     var p = 0, c = 0, deleting = false;
     function tick() {
